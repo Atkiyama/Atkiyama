@@ -29,4 +29,4 @@ Atkiyamaと言います。M1の学生で現在就職活動中です。ここに�
 - [ブラックジャックアプリケーション](https://github.com/Atkiyama/BJ2019)
 
 #### その他
-[Atcoderアカウント](https://atcoder.jp/?lang=ja)
+[Atcoderアカウント](https://atcoder.jp/users/Atkiyama)
