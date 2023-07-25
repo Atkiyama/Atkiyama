@@ -16,7 +16,7 @@ Atkiyama と言います。M2 の学生で現在就職活動中です。ここ�
 - [MAC アドレスがランダム化された BLE 機器が移動する場合の同一機器推定手法,
   サイバーセキュリティシンポジウム道後 2023, 松山市立子規記念博物館, June 2023.](https://www.sec-dogo.jp/student/)
 
-また、研究に使用しているコードはこちらで管理しています
+研究に使用しているコードはこちらで管理しています
 [プログラム本体](https://github.com/Atkiyama/IdentifyMacAddress)
 [データ](https://github.com/Atkiyama/data)
 
